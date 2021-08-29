@@ -1,0 +1,4 @@
+﻿  8-26-8.c
+C:\Users\runzelu\Desktop\8-26-8\8-26-8.c(8,9): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\runzelu\Desktop\8-26-8\8-26-8.c(9,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  8-26-8.vcxproj -> C:\Users\runzelu\Desktop\8-25\Debug\8-26-8.exe
