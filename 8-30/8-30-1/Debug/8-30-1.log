@@ -1,0 +1,4 @@
+﻿  8-30-1.c
+C:\Users\runzelu\Desktop\8-30\8-30-1\8-30-1.c(7,12): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\runzelu\Desktop\8-30\8-30-1\8-30-1.c(7,12): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+  8-30-1.vcxproj -> C:\Users\runzelu\Desktop\8-30\8-30-1\Debug\8-30-1.exe

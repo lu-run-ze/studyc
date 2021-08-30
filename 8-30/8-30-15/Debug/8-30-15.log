@@ -1,0 +1,4 @@
+﻿  8-30-15.c
+C:\Users\runzelu\Desktop\8-30\8-30-15\8-30-15.c(14,5): error C2084: 函数“int max(int *,int)”已有主体
+C:\Users\runzelu\Desktop\8-30\8-30-15\8-30-15.c(3): message : 参见“max”的前一个定义
+C:\Users\runzelu\Desktop\8-30\8-30-15\8-30-15.c(30,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
